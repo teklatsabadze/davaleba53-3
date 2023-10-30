@@ -1,0 +1,13 @@
+.box{
+    width: 1249px;
+    height: 376px;
+    border-radius: 30px;
+    background-color: #22F4DA;
+    margin: auto;
+}
+.text{
+    color: #000;
+    font-size: 32px;
+    padding-top: 29px;
+    padding-left: 536px;
+}
